@@ -750,4 +750,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color:#31b0d5;
 }
+#inhaler {
+
+  width:300px;
+}
 
