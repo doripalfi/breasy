@@ -1,6 +1,6 @@
-# ZYTIG
+# BREASY
 
-Zytig is a visualization system built by students at KTH in the IVIS 2017 course. The project was developed in order to help doctors quickly grasp patient data and medical history and to communicate results with patients with prostate cancer.
+Breasy is a smart sticker for asthma inhalers
 
 ## This webpage was created based on [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
